@@ -8,15 +8,15 @@
 </template>
 
 <script>
-  export default {
-    data() {
-      return {
-        posts: [
-          {id: 1, title: 'JavaScript 1', body: 'Post descriptions 1'},
-          {id: 2, title: 'JavaScript 2', body: 'Post descriptions 2'},
-          {id: 3, title: 'JavaScript 3', body: 'Post descriptions 3'},
-          {id: 4, title: 'JavaScript 4', body: 'Post descriptions 4'},
-        ]
+export default {
+  data () {
+    return {
+      posts: [
+        { id: 1, title: 'JavaScript 1', body: 'Post descriptions 1'},
+        {id: 2, title: 'JavaScript 2', body: 'Post descriptions 2'},
+        {id: 3, title: 'JavaScript 3', body: 'Post descriptions 3'},
+        {id: 4, title: 'JavaScript 4', body: 'Post descriptions 4'},
+      ]
       }
     },
     methods: {
