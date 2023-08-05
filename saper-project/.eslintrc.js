@@ -5,7 +5,6 @@ module.exports = {
     },
     "extends": [
         "eslint:recommended",
-        "plugin:vue/vue3-recommended",
         //"plugin:@typescript-eslint/recommended",
         "plugin:vue/vue3-essential"
     ],
@@ -23,7 +22,7 @@ module.exports = {
         }
     ],
     "parserOptions": {
-        "ecmaVersion": 12,
+        "ecmaVersion": 13,
         //"parser": "@typescript-eslint/parser",
         "sourceType": "module"
     },
@@ -32,9 +31,5 @@ module.exports = {
         "vue"
     ],
     "rules": {
-      "no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }]
-    },
-    "varsIgnorePattern": [
-      "[iI]gnored"
-    ]
+    }
 }

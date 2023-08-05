@@ -17,8 +17,8 @@
     "@babel/core": "^7.21.8",
     "@babel/eslint-parser": "^7.12.16",
     "@babel/plugin-proposal-decorators": "^7.22.7",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
@@ -27,7 +27,8 @@
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-vue": "^9.15.1"
+    "eslint-plugin-vue": "^9.16.1",
+    "hint": "^2.0.0"
   },
   "eslintConfig": {
     "root": true,
