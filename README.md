@@ -6,4 +6,5 @@ The game consists of exploring the various boxes on the board in such a way as t
 
 ## Local Development
 
-1. Open index.html in your browser.
+1. Clone the 'Saper' repository from GitHub to your computer.
+2. Go to the file 'saper-project' and read the 'README' file, it will say how to fire up the local environment. 
